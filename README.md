@@ -1,6 +1,6 @@
 <html>
 <head>
-  <h1>MAXś Shop</h1>
+  <h1>Stella</h1>
 </head>
 <body>
 
