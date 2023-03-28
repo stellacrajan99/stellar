@@ -5,7 +5,7 @@
   window.OneSignal = window.OneSignal || [];
   OneSignal.push(function() {
     OneSignal.init({
-      appId: "dfcb8b67-5ed1-4bc8-b1ac-74bb5a112428",
+      appId: "94d4112f-682f-4989-805e-59a45e389f26",
     });
   });
 </script>
